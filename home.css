@@ -1,0 +1,77 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    background-color:rgba(39, 216, 119, 0.705);
+}
+div.head{
+    height: 50px;
+/*border-style: dotted;*/
+position: relative;
+
+
+}
+div.main{
+    height:715px;
+  /* border-style: dotted;*/
+    
+
+}
+
+
+#gmail{
+     
+    
+     display: inline-block;
+     margin-top: 10px;
+     
+     
+     
+     
+}
+#images{
+    display:inline-block;
+    
+    margin-top: 10px;
+    
+    
+    
+}
+#photo{
+    display: inline-block;
+    margin-top: 10px;
+    
+}
+.topsub{
+   /*position: relative;*/
+    margin-left: 1230px;
+    
+    
+}
+#logo{
+    height:260px;
+    width:550px;
+    background-color: rgba(238, 17, 17, 0.705);
+    position: relative;
+    margin-left: 480px;
+    margin-top: 85px;
+    background-image: url('chrome://new-tab-page/icons/google_logo.svg');
+    
+    
+}
+#tab{
+    background-color: gold;
+    position: relative;
+    margin-top: 700px;
+}
+form{
+    position: relative;
+    margin-left: 650px;
+    margin-top: 25px;
+    background-color: rgb(70, 72, 73);
+    border-radius: 5px;
+    align-items: center;
+    display: flex;
+    width: 230px;
+    height: 30px;
+}
